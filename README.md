@@ -6,6 +6,7 @@
 - 📫 How to reach me?
 -  @guptamimansa1@gmail.com/@guptamimansa2@gmail.com
 -  LinkedIn ID - https://www.linkedin.com/in/mimansa-gupta-7015002a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+-  Google Developer Profile - https://g.dev/developerMimansa
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:"Building my Skills one commit at a time!"
 
