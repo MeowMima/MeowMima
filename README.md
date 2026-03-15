@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MeowMima (A Curious Cat)         
 - 👀 I’m interested in Exploring New Emerging Technologies 
   //This cat will get 9-lives out of Curiosity
+  🌱 I’m currently learning Python and it's Libraries for AI/ML
 - 🌱 I’m currently learning Java and DSA
 - 💞️ I’m looking to collaborate with other
 - 📫 How to reach me?
